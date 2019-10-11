@@ -8,16 +8,16 @@ import java.util.Map;
 public class Substring_with_Concatenation_of_All_Words_30 {
 
     public static void main(String[] args) {
-        String s = "barfoothefoobarman";
-        String[] words = new String[]{"foo", "bar"};
+        String s = "a";
+        String[] words = new String[]{"a"};
         findSubstring(s, words);
 
     }
 
     public static List<Integer> findSubstring(String s, String[] words) {
-        if (words.length <= 0) return null;
-        int length = words[0].length() * words.length;
         ArrayList<Integer> res = new ArrayList<>();
+        if (words.length <= 0) return res;
+        int length = words[0].length() * words.length;
         for (int i = 0; i < s.length(); i++) {
             String[] slices = slice(s, i, i + length - 1, words[0].length());
             if (equal(slices, words)) {
@@ -32,7 +32,7 @@ public class Substring_with_Concatenation_of_All_Words_30 {
         int l = (int) Math.ceil((end - start + 1) / len);
         String[] res = new String[l];
         int index = 0;
-        for (int i = start; i < end; i += len) {
+        for (int i = start; i <= end; i += len) {
             String temp = s.substring(i, i + len);
             res[index] = temp;
             index++;
@@ -57,7 +57,7 @@ public class Substring_with_Concatenation_of_All_Words_30 {
             if (count == 1) {
                 map.remove(src[i]);
             } else {
-                map.put(src[i], count--);
+                map.put(src[i], --count);
             }
         }
         return true;
