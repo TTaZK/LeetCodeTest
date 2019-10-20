@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4594f5-9340-4e94-8a44-b8a813ffb154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Window_Substring_76.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Substring_with_Concatenation_of_All_Words_30.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TrappingRainWater_42.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/test/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/test/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/test/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/test/SocketPackageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/test/SocketTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/SocketPackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/SocketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239$MonotonicQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480$MonotonicQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
