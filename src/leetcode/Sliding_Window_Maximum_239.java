@@ -36,6 +36,10 @@ public class Sliding_Window_Maximum_239 {
     // Monotonic Queue Struct
     // Monotonically decreasing queue
     // The element in the queue`s head is the Max element
+    // 不论维护的是单调递增还是递减的队列，
+    // 对于递减队列，最大元素保存在队首，那么新增的元素从队尾开始遍历并删除，直到找到比其大的元素，然后再插入队尾
+    // 移除递增队列的最大元素时，只需要删除对首即可
+    // 即在队尾插入，在队首删除
     static class MonotonicQueue {
         List<Integer> monotonic_queue = new ArrayList<>();
 

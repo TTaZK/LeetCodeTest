@@ -1,5 +1,6 @@
 package leetcode;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -8,7 +9,8 @@ import java.util.List;
 public class Sliding_Window_Median_480 {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(medianSlidingWindow(new int[]{1, 4, 2, 3}, 4)));
+        System.out.println(Arrays.toString(medianSlidingWindow(new int[]{1, 2, 3, 4, 2, 3, 1, 4, 2
+        }, 3)));
     }
 
     public static double[] medianSlidingWindow(int[] nums, int k) {
@@ -21,13 +23,13 @@ public class Sliding_Window_Median_480 {
         int start = 0;
         int end = 0;
         for (; end < k; end++) {
-            queue.push(nums[end]);
+            queue.push_binary(nums[end]);
         }
         res[index] = queue.median();
         index++;
         while (end < n) {
-            queue.push(nums[end]);
-            queue.pop(nums[start]);
+            queue.push_binary(nums[end]);
+            queue.pop_binary(nums[start]);
 
             res[index] = queue.median();
             index++;
@@ -43,8 +45,10 @@ public class Sliding_Window_Median_480 {
     // 辅助队列的长度保持不变
     // Monotonic Queue Struct
     // 在进行push(),pop()的时间复杂度是O(K)，当case较大时，会导致time limit exceed
+    // 可以在对O(K)时间复杂度进行优化成 O(logK)
     static class MonotonicQueue {
-        List<Integer> temp = new LinkedList<>();
+        // use ArrayList rather than LinkedList
+        List<Integer> temp = new ArrayList<>();
 
         // add a new element into queue tail
         public void push(int element) {
@@ -65,12 +69,60 @@ public class Sliding_Window_Median_480 {
             }
         }
 
+        // 使用二分查找进行优化
+        public void push_binary(int element) {
+            if (temp.isEmpty() || temp.get(temp.size() - 1) <= element) {
+                temp.add(element);
+                return;
+            }
+
+            if (temp.get(0) >= element) {
+                temp.add(0, element);
+                return;
+            }
+
+            int low = 0;
+            int high = temp.size() - 1;
+            while (low <= high) {
+                int mid = low + (high - low) / 2;
+                if (temp.get(mid) > element) {
+                    high = mid - 1;
+                } else if (temp.get(mid) < element) {
+                    low = mid + 1;
+                } else {
+                    temp.add(mid, element);
+                    return;
+                }
+            }
+            temp.add(low, element);
+
+        }
+
+
         // if current element exists queue ,then pop it and return true
         // else do nothing and return false
         public boolean pop(int element) {
             for (int i = 0; i < temp.size(); i++) {
                 if (temp.get(i) == element) {
                     temp.remove(i);
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // 使用二分查找进行优化
+        public boolean pop_binary(int element) {
+            int low = 0;
+            int high = temp.size() - 1;
+            while (low <= high) {
+                int mid = low + (high - low) / 2;
+                if (temp.get(mid) > element) {
+                    high = mid - 1;
+                } else if (temp.get(mid) < element) {
+                    low = mid + 1;
+                } else {
+                    temp.remove(mid);
                     return true;
                 }
             }
