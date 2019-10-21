@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4594f5-9340-4e94-8a44-b8a813ffb154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239$MonotonicQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480$MonotonicQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/Permutation_in_String_567.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Permutation_in_String_567.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sliding_Window_Median_480">
+  <component name="RunManager" selected="Application.Permutation_in_String_567">
     <configuration name="Longest_Repeating_Character_Replacement_424" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Longest_Repeating_Character_Replacement_424" />
       <module name="LeetCode" />
@@ -58,6 +54,19 @@
     </configuration>
     <configuration name="Minimum_Window_Substring_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Minimum_Window_Substring_76" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation_in_String_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Permutation_in_String_567" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring_with_Concatenation_of_All_Words_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Substring_with_Concatenation_of_All_Words_30" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutation_in_String_567" />
         <item itemvalue="Application.Sliding_Window_Median_480" />
         <item itemvalue="Application.Longest_Repeating_Character_Replacement_424" />
         <item itemvalue="Application.Sliding_Window_Maximum_239" />
         <item itemvalue="Application.Minimum_Window_Substring_76" />
-        <item itemvalue="Application.Substring_with_Concatenation_of_All_Words_30" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571561223240</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add leetcode_567">
+      <created>1571578627699</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571578627699</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +261,8 @@
     <MESSAGE value="fix leetcode_480" />
     <MESSAGE value="test" />
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="add leetcode_567" />
+    <option name="LAST_COMMIT_MESSAGE" value="add leetcode_567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -312,6 +316,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/Sliding_Window_Median_480.java</url>
           <line>29</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Permutation_in_String_567.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcode/Sliding_Window_Maximum_239.java</url>
