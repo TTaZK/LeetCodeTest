@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
+// tag : sliding window
 public class Longest_Repeating_Character_Replacement_424 {
     // end指针用于扩大窗口，start指针用于缩小窗口
     // 在由start->end组成的子串中，如果（子串的长度 - 出现次数最多的字符的数目 <= k）

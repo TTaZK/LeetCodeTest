@@ -1,9 +1,11 @@
 package leetcode;
 
 public class Max_Consecutive_Ones_III_1004 {
+    // tag: sliding window
     public static int longestOnes(int[] A, int K) {
         int n = A.length;
         if (n <= K) return n;
+        // used to mark the number of 0
         int counter = K;
         int start, end, maxLength;
         start = end = maxLength = 0;
@@ -33,6 +35,20 @@ public class Max_Consecutive_Ones_III_1004 {
             }
         }
         return maxLength;
+    }
+
+    // 讨论中的参考答案
+    public int longestOnes_1(int[] A, int K) {
+        int zeroCount = 0, start = 0, res = 0;
+        for (int end = 0; end < A.length; end++) {
+            if (A[end] == 0) zeroCount++;
+            while (zeroCount > K) {
+                if (A[start] == 0) zeroCount--;
+                start++;
+            }
+            res = Math.max(res, end - start + 1);
+        }
+        return res;
     }
 
     public static void main(String[] args) {
