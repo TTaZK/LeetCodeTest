@@ -3,6 +3,11 @@ package leetcode;
 public class Median_of_Two_Sorted_Arrays_4 {
 
     // 类比于归并排序
+    // 但是网上有个解法
+    // To solve this problem, we need to understand "What is the use of median".
+    // In statistics, the median is used for dividing a set into two equal length subsets, that one subset is always greater than the other.
+    // If we understand the use of median for dividing, we are very close to the answer.
+    // link : https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2481/Share-my-O(log(min(mn)))-solution-with-explanation
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
         int l_1 = nums1.length;
