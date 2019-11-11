@@ -1,6 +1,7 @@
 package leetcode;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 class TreeNode {
@@ -14,18 +15,19 @@ class TreeNode {
 }
 
 public class Path_Sum_II_113 {
-    List<List<Integer>> ans = new ArrayList<>();
+    static List<List<Integer>> ans = new ArrayList<>();
 
-    public List<List<Integer>> pathSum(TreeNode root, int sum) {
+    public static List<List<Integer>> pathSum(TreeNode root, int sum) {
         if (root == null) return ans;
         List<Integer> curPath = new ArrayList<>();
-        traversal(root, sum, 0, curPath);
+        curPath.add(root.val);
+        traversal(root, sum, root.val, curPath);
         return ans;
     }
 
     // backing traversal
-    public void traversal(TreeNode root, int target, int curSum, List<Integer> curPath) {
-        if (root == null) {
+    public static void traversal(TreeNode root, int target, int curSum, List<Integer> curPath) {
+        if (root.left == null && root.right == null) {
             if (target == curSum) {
                 // 如果不新建一个list，则其余分支遍历时会对该curPath进行操作
                 List<Integer> curAns = new ArrayList<>(curPath);
@@ -35,7 +37,7 @@ public class Path_Sum_II_113 {
             if (curSum >= target) return;
             // traversal cur level
             // left
-            if (curSum + root.left.val < target) {
+            if (root.left != null && curSum + root.left.val <= target) {
                 // 符合限制
                 curPath.add(root.left.val);
                 traversal(root.left, target, curSum + root.left.val, curPath);
@@ -43,11 +45,25 @@ public class Path_Sum_II_113 {
             }
 
             // right
-            if (curSum + root.right.val < target) {
+            if (root.right != null && curSum + root.right.val <= target) {
                 curPath.add(root.right.val);
                 traversal(root.right, target, curSum + root.right.val, curPath);
                 curPath.remove(curPath.size() - 1);
             }
+        }
+    }
+
+    public static void main(String[] args) {
+        TreeNode root = new TreeNode(5);
+        TreeNode left = new TreeNode(3);
+        TreeNode left_left = new TreeNode(2);
+        TreeNode right = new TreeNode(2);
+        root.left = left;
+        left.left = left_left;
+        root.right = right;
+        pathSum(root, 10);
+        for (List<Integer> meta : ans) {
+            System.out.println(Arrays.toString(meta.toArray()));
         }
     }
 }
