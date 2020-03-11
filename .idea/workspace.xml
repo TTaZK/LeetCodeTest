@@ -2,18 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4594f5-9340-4e94-8a44-b8a813ffb154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Partition_List_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Remove_Duplicates_from_Sorted_Array_II_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Cheapest_Flights_Within_K_Stops_787.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2$MonotonousQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Gray_Code_89.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Grumpy_Bookstore_Owner_1052.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Hannoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/K_diff_Pairs_in_an_Array_532.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215$MonotonousQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Letter_Tile_Possibilities_1079.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Max_Consecutive_Ones_III_1004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Maximum_Length_of_Repeated_Subarray_718.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Median_of_Two_Sorted_Arrays_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Size_Subarray_Sum_209.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Move_Zeroes_283.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Multiply_Strings_43.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Path_Sum_II_113.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutation_in_String_567.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutations_II_47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicate_Letters_316.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicates_from_Sorted_Array_II_80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Reverse_Words_in_a_String_151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Set_Matrix_Zeroes_73.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Two_Sum_II_167.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Break_139.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Search_79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_reak_139.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Binary_Tree_Level_Order_Traversal_II_107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/SocketPackageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/SocketTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Longest_Repeating_Character_Replacement_424.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Longest_Repeating_Character_Replacement_424.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Max_Consecutive_Ones_III_1004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Max_Consecutive_Ones_III_1004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/Minimum_Depth_of_Binary_Tree_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Minimum_Depth_of_Binary_Tree_111.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +63,10 @@
   <component name="ProjectId" id="1QXCwQdNJM2uBYEi7ZoVwfyerXg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -54,9 +81,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Partition_List_86">
-    <configuration name="Grumpy_Bookstore_Owner_1052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Grumpy_Bookstore_Owner_1052" />
+  <component name="RunManager" selected="Application.Reverse_Words_in_a_String_151">
+    <configuration name="Letter_Tile_Possibilities_1079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Letter_Tile_Possibilities_1079" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Consecutive_Ones_III_1004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Max_Consecutive_Ones_III_1004" />
+    <configuration name="Maximum_Length_of_Repeated_Subarray_718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Maximum_Length_of_Repeated_Subarray_718" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition_List_86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Partition_List_86" />
+    <configuration name="Multiply_Strings_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Multiply_Strings_43" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation_in_String_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Permutation_in_String_567" />
+    <configuration name="Reverse_Words_in_a_String_151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Reverse_Words_in_a_String_151" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array_II_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Remove_Duplicates_from_Sorted_Array_II_80" />
+    <configuration name="Set_Matrix_Zeroes_73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Set_Matrix_Zeroes_73" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Partition_List_86" />
-        <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array_II_80" />
-        <item itemvalue="Application.Max_Consecutive_Ones_III_1004" />
-        <item itemvalue="Application.Grumpy_Bookstore_Owner_1052" />
-        <item itemvalue="Application.Permutation_in_String_567" />
+        <item itemvalue="Application.Reverse_Words_in_a_String_151" />
+        <item itemvalue="Application.Multiply_Strings_43" />
+        <item itemvalue="Application.Set_Matrix_Zeroes_73" />
+        <item itemvalue="Application.Maximum_Length_of_Repeated_Subarray_718" />
+        <item itemvalue="Application.Letter_Tile_Possibilities_1079" />
       </list>
     </recent_temporary>
   </component>
@@ -274,12 +301,142 @@
       <option name="project" value="LOCAL" />
       <updated>1571887682863</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add leetcode_86 &amp;&amp; 80">
+      <created>1571923948692</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571923948692</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add leetcode_209">
+      <created>1572333526215</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1572333526215</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add leetcode_283">
+      <created>1572335486528</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572335486528</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add leetcode_4 &amp; 532 &amp; 215">
+      <created>1572599676737</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572599676738</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add leetcode_316">
+      <created>1573012173100</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1573012173101</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add leetcode_139">
+      <created>1573181516354</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1573181516355</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add leetcode_113">
+      <created>1573443329341</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1573443329341</updated>
+    </task>
+    <task id="LOCAL-00027" summary="modify leetcode_113">
+      <created>1573444138178</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1573444138178</updated>
+    </task>
+    <task id="LOCAL-00028" summary="modify leetcode_113">
+      <created>1573532726048</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1573532726048</updated>
+    </task>
+    <task id="LOCAL-00029" summary="modify leetcode_47,79">
+      <created>1574132470335</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1574132470336</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add leetcode_1079">
+      <created>1574135401922</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1574135401922</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add leetcode_718">
+      <created>1574156526364</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1574156526364</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add leetcode_73">
+      <created>1574218220579</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1574218220579</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add leetcode_102&amp;43&amp;151">
+      <created>1574907001735</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1574907001735</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add leetcode_103&amp;43&amp;111">
+      <created>1575427339719</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1575427339719</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -289,16 +446,13 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode_41" />
-    <MESSAGE value="leetcode_30" />
-    <MESSAGE value="modify leetcode_30" />
-    <MESSAGE value="submit leetcode_30" />
-    <MESSAGE value="submit leetcode_76" />
-    <MESSAGE value="modify leetcode_76" />
-    <MESSAGE value="add leetcode_239 &amp;&amp; MonotonicQueue" />
-    <MESSAGE value="add leetcode_424" />
     <MESSAGE value="fix leetcode_424" />
     <MESSAGE value="modify leetcode_424" />
     <MESSAGE value="add leetcode_480" />
@@ -310,7 +464,21 @@
     <MESSAGE value="delete test" />
     <MESSAGE value="add leetcode_1052" />
     <MESSAGE value="add leetcode_1004" />
-    <option name="LAST_COMMIT_MESSAGE" value="add leetcode_1004" />
+    <MESSAGE value="add leetcode_86 &amp;&amp; 80" />
+    <MESSAGE value="add leetcode_209" />
+    <MESSAGE value="add leetcode_283" />
+    <MESSAGE value="add leetcode_4 &amp; 532 &amp; 215" />
+    <MESSAGE value="add leetcode_316" />
+    <MESSAGE value="add leetcode_139" />
+    <MESSAGE value="add leetcode_113" />
+    <MESSAGE value="modify leetcode_113" />
+    <MESSAGE value="modify leetcode_47,79" />
+    <MESSAGE value="add leetcode_1079" />
+    <MESSAGE value="add leetcode_718" />
+    <MESSAGE value="add leetcode_73" />
+    <MESSAGE value="add leetcode_102&amp;43&amp;151" />
+    <MESSAGE value="add leetcode_103&amp;43&amp;111" />
+    <option name="LAST_COMMIT_MESSAGE" value="add leetcode_103&amp;43&amp;111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -382,8 +550,63 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/Partition_List_86.java</url>
-          <line>15</line>
+          <line>18</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/First_Missing_Positive_41_2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Minimum_Size_Subarray_Sum_209.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Move_Zeroes_283.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Word_Break_139.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Path_Sum_II_113.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Word_Search_79.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Letter_Tile_Possibilities_1079.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Letter_Tile_Possibilities_1079.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Maximum_Length_of_Repeated_Subarray_718.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Set_Matrix_Zeroes_73.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Reverse_Words_in_a_String_151.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcode/Sliding_Window_Maximum_239.java</url>
@@ -424,6 +647,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/First_Missing_Positive_41_2.java</url>
+          <line>34</line>
+          <properties class="leetcode.First_Missing_Positive_41_2.MonotonousQueue" method="push">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/Kth_Largest_Element_in_an_Array_215.java</url>
+          <line>32</line>
+          <properties class="leetcode.Kth_Largest_Element_in_an_Array_215.MonotonousQueue" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
