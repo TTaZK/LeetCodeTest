@@ -2,41 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4594f5-9340-4e94-8a44-b8a813ffb154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Cheapest_Flights_Within_K_Stops_787.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2$MonotonousQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Gray_Code_89.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Grumpy_Bookstore_Owner_1052.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Hannoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/K_diff_Pairs_in_an_Array_532.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215$MonotonousQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Letter_Tile_Possibilities_1079.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Max_Consecutive_Ones_III_1004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Maximum_Length_of_Repeated_Subarray_718.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Median_of_Two_Sorted_Arrays_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Size_Subarray_Sum_209.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Move_Zeroes_283.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Multiply_Strings_43.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Path_Sum_II_113.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutation_in_String_567.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutations_II_47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicate_Letters_316.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicates_from_Sorted_Array_II_80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Reverse_Words_in_a_String_151.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Set_Matrix_Zeroes_73.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Two_Sum_II_167.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Break_139.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Search_79.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_reak_139.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Binary_Tree_Level_Order_Traversal_II_107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Kth_Smallest_Element_in_a_BST_230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Second_Minimum_Node_In_a_Binary_Tree_671.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Cheapest_Flights_Within_K_Stops_787.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Cheapest_Flights_Within_K_Stops_787.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2$MonotonousQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2$MonotonousQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/First_Missing_Positive_41_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Gray_Code_89.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Gray_Code_89.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Grumpy_Bookstore_Owner_1052.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Grumpy_Bookstore_Owner_1052.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Hannoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Hannoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/K_diff_Pairs_in_an_Array_532.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/K_diff_Pairs_in_an_Array_532.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215$MonotonousQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215$MonotonousQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Kth_Largest_Element_in_an_Array_215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Letter_Tile_Possibilities_1079.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Letter_Tile_Possibilities_1079.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Longest_Repeating_Character_Replacement_424.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Minimum_Depth_of_Binary_Tree_111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Minimum_Depth_of_Binary_Tree_111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Max_Consecutive_Ones_III_1004.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Max_Consecutive_Ones_III_1004.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Maximum_Length_of_Repeated_Subarray_718.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Maximum_Length_of_Repeated_Subarray_718.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Median_of_Two_Sorted_Arrays_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Median_of_Two_Sorted_Arrays_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Size_Subarray_Sum_209.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Size_Subarray_Sum_209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Window_Substring_76.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Minimum_Window_Substring_76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Move_Zeroes_283.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Move_Zeroes_283.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Multiply_Strings_43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Multiply_Strings_43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Partition_List_86.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Path_Sum_II_113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Path_Sum_II_113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutation_in_String_567.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutation_in_String_567.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutations_II_47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Permutations_II_47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicate_Letters_316.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicate_Letters_316.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicates_from_Sorted_Array_II_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Remove_Duplicates_from_Sorted_Array_II_80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Reverse_Words_in_a_String_151.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Reverse_Words_in_a_String_151.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Set_Matrix_Zeroes_73.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Set_Matrix_Zeroes_73.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239$MonotonicQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239$MonotonicQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Maximum_239.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480$MonotonicQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480$MonotonicQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Sliding_Window_Median_480.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Substring_with_Concatenation_of_All_Words_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Substring_with_Concatenation_of_All_Words_30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TrappingRainWater_42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TrappingRainWater_42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Two_Sum_II_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Two_Sum_II_167.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Break_139.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Break_139.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Search_79.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_Search_79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_reak_139.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode/Word_reak_139.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,9 +90,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse_Words_in_a_String_151">
-    <configuration name="Letter_Tile_Possibilities_1079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Letter_Tile_Possibilities_1079" />
+  <component name="RunManager" selected="Application.Kth_Smallest_Element_in_a_BST_230">
+    <configuration name="Kth_Smallest_Element_in_a_BST_230" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Kth_Smallest_Element_in_a_BST_230" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kth_Smallest_Element_in_a_BST_230" />
         <item itemvalue="Application.Reverse_Words_in_a_String_151" />
         <item itemvalue="Application.Multiply_Strings_43" />
         <item itemvalue="Application.Set_Matrix_Zeroes_73" />
         <item itemvalue="Application.Maximum_Length_of_Repeated_Subarray_718" />
-        <item itemvalue="Application.Letter_Tile_Possibilities_1079" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575427339719</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add leetcode_107 &amp; 111">
+      <created>1575515241538</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1575515241538</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix leetcode_424" />
     <MESSAGE value="modify leetcode_424" />
     <MESSAGE value="add leetcode_480" />
     <MESSAGE value="fix leetcode_480" />
@@ -478,7 +493,8 @@
     <MESSAGE value="add leetcode_73" />
     <MESSAGE value="add leetcode_102&amp;43&amp;151" />
     <MESSAGE value="add leetcode_103&amp;43&amp;111" />
-    <option name="LAST_COMMIT_MESSAGE" value="add leetcode_103&amp;43&amp;111" />
+    <MESSAGE value="add leetcode_107 &amp; 111" />
+    <option name="LAST_COMMIT_MESSAGE" value="add leetcode_107 &amp; 111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
